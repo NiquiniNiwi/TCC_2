@@ -11,9 +11,9 @@ Ciência da Computação da Universidade Federal de Ouro Preto (UFOP).
 ---
 
 ## 🧠 Objetivos Principais
-• Analisar o histórico de disciplinas dos alunos;
-• Desenvolver o sistema de recomendação;
-• Avaliar o desempenho do modelo em dados históricos reais.
+- Analisar o histórico de disciplinas dos alunos;
+- Desenvolver o sistema de recomendação;
+- Avaliar o desempenho do modelo em dados históricos reais.
 
 ---
 
