@@ -68,3 +68,7 @@ A proposta é analisar dados históricos e identificar padrões que possam auxil
 
 🧭 **Carga horária total:** ~30 horas (2 sessões de 1h30 por semana)
 
+## ✅ Status Atual
+📅 *Atualizado em: novembro de 2025*  
+🚧 **Etapa atual:** Levantamento e organização dos dados + estudo inicial sobre técnicas de aprendizado supervisionado.  
+🎯 **Próximo passo:** Iniciar o pré-processamento e a análise exploratória dos dados (EDA).
