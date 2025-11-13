@@ -21,8 +21,8 @@ Ciência da Computação da Universidade Federal de Ouro Preto (UFOP).
 
 ### 📍 **Novembro 2025**
 - **Semana 1 (10–16 nov)**  
-  🔹 Levantamento e organização dos dados disponíveis  
-  🔹 Estudo inicial sobre técnicas de aprendizado supervisionado  
+  🔹 Levantamento de funcionamento de SRs (sistemas de recomendação)
+  🔹 Uso de IA em SRs
 
 - **Semana 2 (17–23 nov)**  
   🔹 Limpeza e pré-processamento dos dados  
@@ -72,5 +72,5 @@ Ciência da Computação da Universidade Federal de Ouro Preto (UFOP).
 
 ## ✅ Status Atual
 📅 *Atualizado em: novembro de 2025*  
-🚧 **Etapa atual:** Levantamento e organização dos dados + estudo inicial sobre técnicas de aprendizado supervisionado.  
+🚧 **Etapa atual:**   Levantamento de funcionamento de SRs (sistemas de recomendação) +   Uso de IA em SRs
 🎯 **Próximo passo:** Iniciar o pré-processamento e a análise exploratória dos dados (EDA).
