@@ -21,7 +21,7 @@ Ciência da Computação da Universidade Federal de Ouro Preto (UFOP).
 
 ### 📍 **Novembro 2025**
 - **Semana 1 (10–16 nov)**  
-  🔹 Levantamento de funcionamento de SRs (sistemas de recomendação)
+  🔹 Levantamento de funcionamento de SRs (sistemas de recomendação)  
   🔹 Uso de IA em SRs
 
 - **Semana 2 (17–23 nov)**  
